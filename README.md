@@ -195,6 +195,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SROBB                  | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf)               |                                                              | Targeted Perceptual Loss                                     |
 | RankSRGAN              | [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)               | [PyTorch](https://github.com/WenlongZhang0724/RankSRGAN)     | oral, rank-content loss                                      |
 | s-LWSR                 | [arXiv](<https://arxiv.org/pdf/1909.10774v1.pdf>)            |                                                              | Lightweight Network                                          |
+| NAS                 | [arXiv](<https://arxiv.org/pdf/1909.11409v1.pdf>)            |                                                              |                                         |
 
 #### Super Resolution survey：
 
