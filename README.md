@@ -197,7 +197,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | s-LWSR                 | [arXiv](<https://arxiv.org/pdf/1909.10774v1.pdf>)            |                                                              | Lightweight Network                                          |
 | NAS                 | [arXiv](<https://arxiv.org/pdf/1909.11409v1.pdf>)            |                                                              |                                         |
 | MGAN                 | [arXiv](<https://arxiv.org/pdf/1909.11937v1.pdf>)            |                                                              |    
-| IMDN                 | [ICCV2019Workshop](<https://arxiv.org/pdf/1909.11856v1.pdf>)            |   [PyTorch](https://github.com/Zheng222/IMDN)                       |   Lightweight  
+| IMDN                 | [ACM MM 2019](<https://arxiv.org/pdf/1909.11856v1.pdf>)            |   [PyTorch](https://github.com/Zheng222/IMDN)                       |   Lightweight  
 
 #### Super Resolution survey：
 
