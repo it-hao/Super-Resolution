@@ -198,6 +198,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | ESRN                 | [arXiv](<https://arxiv.org/pdf/1909.11409v1.pdf>)            |                                                              |                                         |
 | MGAN                 | [arXiv](<https://arxiv.org/pdf/1909.11937v1.pdf>)            |                                                              |    
 | IMDN                 | [ACM MM 2019](<https://arxiv.org/pdf/1909.11856v1.pdf>)            |   [PyTorch](https://github.com/Zheng222/IMDN)                       |   Lightweight  
+| WDST                 | [arXiv](<https://arxiv.org/pdf/1910.04074.pdf>)            |                         |   perception-distortion tradeoff  
 
 #### Super Resolution survey：
 
