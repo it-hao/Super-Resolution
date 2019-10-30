@@ -196,11 +196,14 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | RankSRGAN              | [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)               | [PyTorch](https://github.com/WenlongZhang0724/RankSRGAN)     | oral, rank-content loss                                      |
 | s-LWSR                 | [arXiv](<https://arxiv.org/pdf/1909.10774v1.pdf>)            |                                                              | Lightweight Network                                          |
 | ESRN                 | [arXiv](<https://arxiv.org/pdf/1909.11409v1.pdf>)            |                                                              |                                         |
-| MGAN                 | [arXiv](<https://arxiv.org/pdf/1909.11937v1.pdf>)            |                                                              |    
-| IMDN                 | [ACM MM 2019](<https://arxiv.org/pdf/1909.11856v1.pdf>)            |   [PyTorch](https://github.com/Zheng222/IMDN)                       |   Lightweight  
-| WDST                 | [arXiv](<https://arxiv.org/pdf/1910.04074.pdf>)            |                         |   perception-distortion tradeoff  
-| ABPN                 | [arXiv](<https://arxiv.org/pdf/1910.04476.pdf>)            |       [PyTorch](https://github.com/Holmes-Alan/ABPN)       |     
-
+| MGAN                 | [arXiv](<https://arxiv.org/pdf/1909.11937v1.pdf>)            |                                                              ||
+| IMDN | [ACM MM 2019](<https://arxiv.org/pdf/1909.11856v1.pdf>) | [PyTorch](https://github.com/Zheng222/IMDN) |Lightweight Network|
+| WDST | [arXiv](<https://arxiv.org/pdf/1910.04074.pdf>) | |perception-distortion tradeoff|
+| ABPN | [arXiv](<https://arxiv.org/pdf/1910.04476.pdf>) | [PyTorch](https://github.com/Holmes-Alan/ABPN) ||
+| PFNL | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf) | [Tensorflow](https://github.com/psychopa4/PFNL) |**VideoSR** oral,Non-Local Spatio-Temporal Correlations|
+| EBRN | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf) | |Embedded Block Residual Network|
+| Deep SR-ITM | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Deep_SR-ITM_Joint_Learning_of_Super-Resolution_and_Inverse_Tone-Mapping_for_ICCV_2019_paper.pdf) | [matlab](https://github.com/sooyekim/Deep-SR-ITM) |SDR to HDR, 4K SR|
+| feature SR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) | |Super-Resolution for Small Object Detection|
 #### Super Resolution survey：
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
