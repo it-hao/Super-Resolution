@@ -206,6 +206,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | feature SR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) | |Super-Resolution for Small Object Detection|
 | STFAN | [ICCV19](https://arxiv.org/pdf/1904.12257.pdf) | [PyTorch](https://github.com/sczhou/STFAN) |Video Deblurring|
 | KMSR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution) |GAN for blur-kernel estimation|
+| JDSR | [arXiv](https://arxiv.org/pdf/1911.03558v1.pdf) |  |Demosaicing and SR|
 #### Super Resolution survey：
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
