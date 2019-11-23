@@ -4,9 +4,9 @@ collect some super-resolution related papers, datasets, metrics and repositories
 
 most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!!
 
-## Important Repositories
+## **1.Important Repositories**
 
-#### Awesome paper list:
+### Awesome paper list:
 
 [Paper with code: Super Resolution](https://paperswithcode.com/task/super-resolution)
 
@@ -20,7 +20,7 @@ most of these contents are referenced from [here.](<https://github.com/ChaofWang
 
 [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) 
 
-#### Awesome repos:
+### Awesome repos:
 
 |                             repo                             | Framework  |
 | :----------------------------------------------------------: | :--------: |
@@ -38,7 +38,7 @@ most of these contents are referenced from [here.](<https://github.com/ChaofWang
 | [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) | Tensorflow |
 | [Video-super-resolution](https://github.com/thangvubk/video-super-resolution) |  PyTorch   |
 
-#### SR Metrics
+### **SR Metrics**
 
 Note this table is referenced from [here](https://github.com/ptkin/Awesome-Super-Resolution).
 
@@ -52,44 +52,38 @@ Note this table is referenced from [here](https://github.com/ptkin/Awesome-Super
 | NIQE    | **Making a “Completely Blind” Image Quality Analyzer**, *Mittal, Anish; Soundararajan, Rajiv; Bovik, Alan C.*, **Signal Processing Letters 2013**, [[Matlab*](https://github.com/csjunxu/Bovik_NIQE_SPL2013)], [[Signal Processing Letters](https://ieeexplore.ieee.org/document/6353522)], `NIQE` |
 | Ma      | **Learning a no-reference quality metric for single-image super-resolution**, *Ma, Chao; Yang, Chih-Yuan; Yang, Xiaokang; Yang, Ming-Hsuan*, **CVIU 2017**, [[arXiv](https://arxiv.org/abs/1612.05890)], [[CVIU](https://www.sciencedirect.com/science/article/pii/S107731421630203X)], [[Matlab*](https://github.com/chaoma99/sr-metric)], [[Project](https://sites.google.com/site/chaoma99/sr-metric)], `Ma` |
 
-## Datasets
+## 2.Datasets
 
 Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution#link-of-datasets).
 
-|     Name     |   Usage    |                             Link                             |                        Comments                        |
-| :----------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------: |
-|     Set5     |    Test    | [download](https://uofi.box.com/shared/static/kfahv87nfe8ax910l85dksyl2q212voc.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
-|    SET14     |    Test    | [download](https://uofi.box.com/shared/static/igsnfieh4lz68l926l8xbklwsnnk8we9.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
-|    BSD100    |    Test    | [download](https://uofi.box.com/shared/static/qgctsplb8txrksm9to9x01zfa4m61ngq.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
-|   Urban100   |    Test    | [download](https://uofi.box.com/shared/static/65upg43jjd0a4cwsiqgl6o6ixube6klm.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
-|   Manga109   |    Test    |       [website](http://www.manga109.org/ja/index.html)       |                                                        |
-|   SunHay80   |    Test    | [download](https://uofi.box.com/shared/static/rirohj4773jl7ef752r330rtqw23djt8.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
-|    BSD300    | Train/Val  | [download](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/BSDS300-images.tgz) |                                                        |
-|    BSD500    | Train/Val  | [download](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_bsds500.tgz) |                                                        |
-|   91-Image   |   Train    | [download](http://www.ifp.illinois.edu/~jyang29/codes/ScSR.rar) |                          Yang                          |
-|  DIV2K2017   | Train/Val  |     [website](https://data.vision.ee.ethz.ch/cvl/DIV2K/)     |                       NTIRE2017                        |
-|   Real SR    | Train/Val  | [website](https://competitions.codalab.org/competitions/21439#participate) |                       NTIRE2019                        |
-|   Waterloo   |   Train    |   [website](https://ece.uwaterloo.ca/~k29ma/exploration/)    |                                                        |
-|     VID4     |    Test    | [download](https://people.csail.mit.edu/celiu/CVPR2011/videoSR.zip) |                        4 videos                        |
-|    MCL-V     |   Train    |        [website](http://mcl.usc.edu/mcl-v-database/)         |                       12 videos                        |
-|    GOPRO     | Train/Val  | [website](https://github.com/SeungjunNah/DeepDeblur_release) |                   33 videos, deblur                    |
-|    CelebA    |   Train    | [website](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  |                      Human faces                       |
-|    Sintel    | Train/Val  |       [website](http://sintel.is.tue.mpg.de/downloads)       |                      Optical flow                      |
-| FlyingChairs |   Train    | [website](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html#flyingchairs) |                      Optical flow                      |
-|  Vimeo-90k   | Train/Test |           [website](http://toflow.csail.mit.edu/)            |                     90k HQ videos                      |
-|    SR-RAW    | Train/Test | [website](https://ceciliavision.github.io/project-pages/project-zoom.html) |                raw sensor image dataset                |
+|          Name           |   Usage    |                             Link                             |                        Comments                        |
+| :---------------------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|          Set5           |    Test    | [download](https://uofi.box.com/shared/static/kfahv87nfe8ax910l85dksyl2q212voc.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
+|          SET14          |    Test    | [download](https://uofi.box.com/shared/static/igsnfieh4lz68l926l8xbklwsnnk8we9.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
+|         BSD100          |    Test    | [download](https://uofi.box.com/shared/static/qgctsplb8txrksm9to9x01zfa4m61ngq.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
+|        Urban100         |    Test    | [download](https://uofi.box.com/shared/static/65upg43jjd0a4cwsiqgl6o6ixube6klm.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
+|        Manga109         |    Test    |       [website](http://www.manga109.org/ja/index.html)       |                                                        |
+|        SunHay80         |    Test    | [download](https://uofi.box.com/shared/static/rirohj4773jl7ef752r330rtqw23djt8.zip) | [jbhuang0604](https://github.com/jbhuang0604/SelfExSR) |
+|         BSD300          | Train/Val  | [download](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/BSDS300-images.tgz) |                                                        |
+|         BSD500          | Train/Val  | [download](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_bsds500.tgz) |                                                        |
+|        91-Image         |   Train    | [download](http://www.ifp.illinois.edu/~jyang29/codes/ScSR.rar) |                          Yang                          |
+|        DIV2K2017        | Train/Val  |     [website](https://data.vision.ee.ethz.ch/cvl/DIV2K/)     |                       NTIRE2017                        |
+|         Real SR         | Train/Val  | [website](https://competitions.codalab.org/competitions/21439#participate) |                       NTIRE2019                        |
+|        Waterloo         |   Train    |   [website](https://ece.uwaterloo.ca/~k29ma/exploration/)    |                                                        |
+|          VID4           |    Test    | [download](https://people.csail.mit.edu/celiu/CVPR2011/videoSR.zip) |                        4 videos                        |
+|          MCL-V          |   Train    |        [website](http://mcl.usc.edu/mcl-v-database/)         |                       12 videos                        |
+|          GOPRO          | Train/Val  | [website](https://github.com/SeungjunNah/DeepDeblur_release) |                   33 videos, deblur                    |
+|         CelebA          |   Train    | [website](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  |                      Human faces                       |
+|         Sintel          | Train/Val  |       [website](http://sintel.is.tue.mpg.de/downloads)       |                      Optical flow                      |
+|      FlyingChairs       |   Train    | [website](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html#flyingchairs) |                      Optical flow                      |
+|        Vimeo-90k        | Train/Test |           [website](http://toflow.csail.mit.edu/)            |                     90k HQ videos                      |
+|         SR-RAW          | Train/Test | [website](https://ceciliavision.github.io/project-pages/project-zoom.html) |                raw sensor image dataset                |
+| Benchmark and DIV2k(SR) | Train/Test | [website](https://drive.google.com/drive/folders/1-99XFJs_fvQ2wFdxXrnJFcRRyPJYKN0K) |                super-resolution dataset                |
+|   SR Testing Datasets   |    Test    | [website](https://www.kaggle.com/msahebi/super-resolution#SR_testing_datasets.zip) |                super-resolution dataset                |
 
-#### Dataset collections
+## 3.Papers
 
-[Benckmark and DIV2K](https://drive.google.com/drive/folders/1-99XFJs_fvQ2wFdxXrnJFcRRyPJYKN0K): Set5, Set14, B100, Urban100, Manga109, DIV2K2017 include bicubic downsamples with x2,3,4,8
-
-[SR_testing_datasets](https://www.kaggle.com/msahebi/super-resolution#SR_testing_datasets.zip): Test: Set5, Set14, B100, Urban100, Manga109, Historical; Train: T91,General100, BSDS200
-
-
-
-## Papers
-
-#### Non-DL based approach
+### Non-DL based approach
 
 SCSR: TIP2010, Jianchao Yang et al.[paper](https://ieeexplore.ieee.org/document/5466111/?arnumber=5466111), [code](http://www.ifp.illinois.edu/~jyang29/)
 
@@ -105,7 +99,7 @@ NBSRF: ICCV2015, Jordi Salvador et al. [paper](https://www.cv-foundation.org/ope
 
 RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf), [code](<https://www.tugraz.at/institute/icg/research/team-bischof/samuel-schulter/>)
 
-#### DL based approach
+### DL based approach
 
 Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating)
 
@@ -207,7 +201,10 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | STFAN | [ICCV19](https://arxiv.org/pdf/1904.12257.pdf) | [PyTorch](https://github.com/sczhou/STFAN) |Video Deblurring|
 | KMSR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution) |GAN for blur-kernel estimation|
 | JDSR | [arXiv](https://arxiv.org/pdf/1911.03558v1.pdf) |  |Demosaicing and SR|
-#### Super Resolution survey：
+| CFSNet | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_CFSNet_Toward_a_Controllable_Feature_Space_for_Image_Restoration_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/qibao77/CFSNet) |Controllable Feature|
+| FSRnet | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Fast_Image_Restoration_With_Multi-Bin_Trainable_Linear_Units_ICCV_2019_paper.pdf) | |Multi-bin Trainable Linear Units|
+| SAM+VAM | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf) | ||
+### Super Resolution survey：
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
 
@@ -215,7 +212,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 [3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
 
-#### NTIRE:
+### NTIRE:
 
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
@@ -225,7 +222,7 @@ NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.
 
 
 
-## Excellent  personal website:
+## 4.Excellent  personal website:
 
 [Manri Cheon](https://manricheon.github.io/)
 
