@@ -1,12 +1,12 @@
-# Awesome-Super-Resolution（in progress...）
+# Super-Resolution（in progress...）
 
-collect some super-resolution related papers, datasets, metrics and repositories.
+Collect some image SR related papers, datasets, metrics and repositories.
 
-most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!!
+Most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!!
 
 ## **1.Important Repositories**
 
-### Awesome paper list:
+### Awesome Paper List
 
 [Paper with code: Super Resolution](https://paperswithcode.com/task/super-resolution)
 
@@ -20,7 +20,7 @@ most of these contents are referenced from [here.](<https://github.com/ChaofWang
 
 [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) 
 
-### Awesome repos:
+### Awesome Repos
 
 |                             repo                             | Framework  |
 | :----------------------------------------------------------: | :--------: |
@@ -83,7 +83,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 ## 3.Papers
 
-### Non-DL based approach
+### Non-DL Based Approach
 
 SCSR: TIP2010, Jianchao Yang et al.[paper](https://ieeexplore.ieee.org/document/5466111/?arnumber=5466111), [code](http://www.ifp.illinois.edu/~jyang29/)
 
@@ -99,15 +99,15 @@ NBSRF: ICCV2015, Jordi Salvador et al. [paper](https://www.cv-foundation.org/ope
 
 RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf), [code](<https://www.tugraz.at/institute/icg/research/team-bischof/samuel-schulter/>)
 
-### DL based approach
+### DL Based Approach
 
 Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating)
 
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
-| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
 | SRCNN                  | [ECCV14](https://arxiv.org/abs/1501.00092)                   | [Keras](https://github.com/qobilidop/srcnn)                  | CNN                                                          |
 | RAISR                  | [arXiv](https://arxiv.org/abs/1606.01299)                    | -                                                            | Google, Pixel 3                                              |
-| ESPCN                  | [CVPR16](https://arxiv.org/abs/1609.05158)                   | [Keras](https://github.com/qobilidop/srcnn)                  | Real time/SISR/**VideoSR**                                   |
+| ESPCN                  | [CVPR16](https://arxiv.org/abs/1609.05158)                   | [Keras](https://github.com/qobilidop/srcnn)                  | Real time/SISR/VideoSR                                   |
 | VDSR                   | [CVPR16](https://arxiv.org/abs/1511.04587)                   | [Matlab](http://cv.snu.ac.kr/research/VDSR/)                 | Deep, Residual                                               |
 | DRCN                   | [CVPR16](https://arxiv.org/abs/1511.04491)                   | [Matlab](http://cv.snu.ac.kr/research/DRCN/)                 | Recurrent                                                    |
 | DRRN                   | [CVPR17](http://cvlab.cse.msu.edu/pdfs/Tai_Yang_Liu_CVPR2017.pdf) | [Caffe](https://github.com/tyshiwo/DRRN_CVPR17), [PyTorch](https://github.com/jt827859032/DRRN-pytorch) | Recurrent                                                    |
@@ -118,10 +118,10 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SelNet                 | [CVPR17](https://ieeexplore.ieee.org/document/8014887)       | -                                                            | NTIRE17                                                      |
 | TLSR                   | [CVPR17](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Xu_Fast_and_Accurate_CVPR_2017_paper.pdf) | -                                                            | NTIRE17                                                      |
 | SRGAN                  | [CVPR17](https://arxiv.org/abs/1609.04802)                   | [Tensorflow](https://github.com/tensorlayer/srgan)           | 1st proposed GAN                                             |
-| VESPCN                 | [CVPR17](https://arxiv.org/abs/1611.05250)                   | -                                                            | **VideoSR**                                                  |
+| VESPCN                 | [CVPR17](https://arxiv.org/abs/1611.05250)                   | -                                                            | VideoSR                                                  |
 | MemNet                 | [ICCV17](https://arxiv.org/abs/1708.02209)                   | [Caffe](https://github.com/tyshiwo/MemNet)                   | Dense && Recurrent                                           |
 | SRDenseNet             | [ICCV17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf) | -, [PyTorch](https://github.com/wxywhu/SRDenseNet-pytorch)   | Dense                                                        |
-| SPMC                   | [ICCV17](https://arxiv.org/abs/1704.02738)                   | [Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)      | **VideoSR**                                                  |
+| SPMC                   | [ICCV17](https://arxiv.org/abs/1704.02738)                   | [Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)      | VideoSR                                                  |
 | EnhanceNet             | [ICCV17](https://arxiv.org/abs/1612.07919)                   | [TensorFlow](https://github.com/msmsajjadi/EnhanceNet-Code)  | Perceptual Loss                                              |
 | PRSR                   | [ICCV17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dahl_Pixel_Recursive_Super_ICCV_2017_paper.pdf) | [TensorFlow](https://github.com/nilboy/pixel-recursive-super-resolution) | an extension of PixelCNN                                     |
 | AffGAN                 | [ICLR17](https://arxiv.org/pdf/1610.04490.pdf)               | -                                                            |                                                              |
@@ -136,9 +136,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | WDSR                   | [CVPR18](https://arxiv.org/abs/1808.08718)                   | [PyTorch](https://github.com/JiahuiYu/wdsr_ntire2018)，[TensorFlow](https://github.com/ychfan/tf_estimator_barebone/blob/master/docs/super_resolution.md) | NTIRE18 Champion                                             |
 | ProSRN                 | [CVPR18](https://arxiv.org/abs/1804.02900)                   | [PyTorch](https://github.com/fperazzi/proSR)                 | NTIRE18  && Progressive                                      |
 | ZSSR                   | [CVPR18](http://www.wisdom.weizmann.ac.il/~vision/zssr/)     | [Tensorflow](https://github.com/assafshocher/ZSSR)           | Zero-shot                                                    |
-| FRVSR                  | [CVPR18](https://arxiv.org/abs/1801.04590)                   | [PDF](https://github.com/msmsajjadi/FRVSR)                   | **VideoSR**                                                  |
-| DUF                    | [CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf) | [Tensorflow](https://github.com/yhjo09/VSR-DUF)              | **VideoSR**                                                  |
-| TDAN                   | [arXiv](https://arxiv.org/pdf/1812.02898.pdf)                | -                                                            | **VideoSR** && Deformable Align                              |
+| FRVSR                  | [CVPR18](https://arxiv.org/abs/1801.04590)                   | [PDF](https://github.com/msmsajjadi/FRVSR)                   | VideoSR                                                  |
+| DUF                    | [CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf) | [Tensorflow](https://github.com/yhjo09/VSR-DUF)              | VideoSR                                                  |
+| TDAN                   | [arXiv](https://arxiv.org/pdf/1812.02898.pdf)                | -                                                            | VideoSR && Deformable Align                              |
 | SFTGAN                 | [CVPR18](https://arxiv.org/abs/1804.02815)                   | [PyTorch](https://github.com/xinntao/SFTGAN)                 |                                                              |
 | CARN                   | [ECCV18](https://arxiv.org/abs/1803.08664)                   | [PyTorch](https://github.com/nmhkahn/CARN-pytorch)           | Lightweight                                                  |
 | RCAN                   | [ECCV18](https://arxiv.org/abs/1807.02758)                   | [PyTorch](https://github.com/yulunzhang/RCAN)                | Deep && BI-BD-DN && Channel-wise Attention                   |
@@ -152,8 +152,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | NLRN                   | [NIPS18](https://papers.nips.cc/paper/7439-non-local-recurrent-network-for-image-restoration.pdf) | [Tensorflow](https://github.com/Ding-Liu/NLRN)               | Non-local, Recurrent                                         |
 | SRCliqueNet            | [NIPS18](https://arxiv.org/abs/1809.04508)                   | -                                                            | Wavelet                                                      |
 | CBDNet                 | [arXiv](https://arxiv.org/abs/1807.04686)                    | [Matlab](https://github.com/GuoShi28/CBDNet)                 | Blind-denoise                                                |
-| TecoGAN                | [arXiv](http://arxiv.org/abs/1811.09393)                     | [Tensorflow](https://github.com/thunil/TecoGAN)              | **VideoSR** GAN                                              |
-| RBPN                   | [CVPR19](https://arxiv.org/abs/1903.10128)                   | [PyTorch](https://github.com/alterzero/RBPN-PyTorch)         | **VideoSR**                                                  |
+| TecoGAN                | [arXiv](http://arxiv.org/abs/1811.09393)                     | [Tensorflow](https://github.com/thunil/TecoGAN)              | VideoSR GAN                                              |
+| RBPN                   | [CVPR19](https://arxiv.org/abs/1903.10128)                   | [PyTorch](https://github.com/alterzero/RBPN-PyTorch)         | VideoSR                                                  |
 | SRFBN                  | [CVPR19](https://arxiv.org/abs/1903.09814)                   | [PyTorch](https://github.com/Paper99/SRFBN_CVPR19)           | Feedback && Recurrent                                        |
 | AdaFM                  | [CVPR19](https://arxiv.org/pdf/1904.08118.pdf)               | [PyTorch](https://github.com/hejingwenhejingwen/AdaFM)       | Adaptive Feature Modification Layers                         |
 | MoreMNAS               | [arXiv](https://arxiv.org/pdf/1901.01074.pdf)                | -                                                            | Lightweight，NAS                                             |
@@ -193,18 +193,22 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | MGAN                 | [arXiv](<https://arxiv.org/pdf/1909.11937v1.pdf>)            |                                                              ||
 | IMDN | [ACM MM 2019](<https://arxiv.org/pdf/1909.11856v1.pdf>) | [PyTorch](https://github.com/Zheng222/IMDN) |Lightweight Network|
 | WDST | [arXiv](<https://arxiv.org/pdf/1910.04074.pdf>) | |perception-distortion tradeoff|
+| HBPN | [arXiv](https://arxiv.org/pdf/1906.06874.pdf) | [PyTorch](https://github.com/Holmes-Alan/HBPN) ||
 | ABPN | [arXiv](<https://arxiv.org/pdf/1910.04476.pdf>) | [PyTorch](https://github.com/Holmes-Alan/ABPN) ||
-| PFNL | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf) | [Tensorflow](https://github.com/psychopa4/PFNL) |**VideoSR** oral,Non-Local Spatio-Temporal Correlations|
+| PFNL | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf) | [Tensorflow](https://github.com/psychopa4/PFNL) |VideoSR oral,Non-Local Spatio-Temporal Correlations|
 | EBRN | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf) | |Embedded Block Residual Network|
 | Deep SR-ITM | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Deep_SR-ITM_Joint_Learning_of_Super-Resolution_and_Inverse_Tone-Mapping_for_ICCV_2019_paper.pdf) | [matlab](https://github.com/sooyekim/Deep-SR-ITM) |SDR to HDR, 4K SR|
-| feature SR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) | |Super-Resolution for Small Object Detection|
+| Feature SR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) | |Super-Resolution for Small Object Detection|
 | STFAN | [ICCV19](https://arxiv.org/pdf/1904.12257.pdf) | [PyTorch](https://github.com/sczhou/STFAN) |Video Deblurring|
 | KMSR | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution) |GAN for blur-kernel estimation|
 | JDSR | [arXiv](https://arxiv.org/pdf/1911.03558v1.pdf) |  |Demosaicing and SR|
 | CFSNet | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_CFSNet_Toward_a_Controllable_Feature_Space_for_Image_Restoration_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/qibao77/CFSNet) |Controllable Feature|
 | FSRnet | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Fast_Image_Restoration_With_Multi-Bin_Trainable_Linear_Units_ICCV_2019_paper.pdf) | |Multi-bin Trainable Linear Units|
 | SAM+VAM | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf) | ||
-### Super Resolution survey：
+| FFA-Net | [AAAI2020](<https://arxiv.org/pdf/1911.07559.pdf>) | [Pytorch](https://github.com/zhilin007/FFA-Net) |Image Dehazing|
+| RC-Net | [arXiv](https://arxiv.org/pdf/1910.08853.pdf) | [matlab](https://github.com/cswin/RC-Nets) |Image Denoising and Super-resolution|
+| IR-NAS | [arXiv](https://arxiv.org/pdf/1909.08228v2.pdf) |  |NAS|
+### Super Resolution Survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
 
@@ -212,7 +216,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 [3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
 
-### NTIRE:
+### NTIRE
 
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
@@ -222,7 +226,7 @@ NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.
 
 
 
-## 4.Excellent  personal website:
+## 4.Excellent  Personal Website
 
 [Manri Cheon](https://manricheon.github.io/)
 
