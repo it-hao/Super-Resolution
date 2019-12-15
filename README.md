@@ -210,7 +210,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | FFA-Net | [AAAI2020](<https://arxiv.org/pdf/1911.07559.pdf>) | [Pytorch](https://github.com/zhilin007/FFA-Net) |Image Dehazing|
 | RC-Net | [arXiv](https://arxiv.org/pdf/1910.08853.pdf) | [matlab](https://github.com/cswin/RC-Nets) |Image Denoising and Super-resolution|
 | IR-NAS | [arXiv](https://arxiv.org/pdf/1909.08228v2.pdf) |  |NAS|
-| SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf) | |Fast  and Channel-Attention|
+| SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf) | |Fast  &Channel-Attention|
+| DSGAN | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf) | |Real-World Super-Resolution|
 ### Super Resolution Survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
