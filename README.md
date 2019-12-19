@@ -212,6 +212,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | IR-NAS | [arXiv](https://arxiv.org/pdf/1909.08228v2.pdf) |  |NAS|
 | SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf) | |Fast  &Channel-Attention|
 | DSGAN | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf) | |Real-World Super-Resolution|
+| ADCSR | [arXiv](https://arxiv.org/pdf/1912.08002v1.pdf) | ||
 ### Super Resolution Survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
