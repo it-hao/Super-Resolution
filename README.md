@@ -213,6 +213,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf) | |Fast  &Channel-Attention|
 | DSGAN | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf) | |Real-World Super-Resolution|
 | ADCSR | [arXiv](https://arxiv.org/pdf/1912.08002v1.pdf) | ||
+| SCN | [AAAI2020](https://arxiv.org/pdf/1912.09028.pdf) | |Scale-wise Convolution|
 ### Super Resolution Survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
@@ -227,9 +228,11 @@ NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py
 
 NTIRE18 [papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
 
+PIRM18 [web](https://pirm2018.org/)
+
 NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
 
-
+AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
 ## 4.Excellent  Personal Website
 
