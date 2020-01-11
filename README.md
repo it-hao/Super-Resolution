@@ -214,6 +214,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | DSGAN | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf) | |Real-World Super-Resolution|
 | ADCSR | [arXiv](https://arxiv.org/pdf/1912.08002v1.pdf) | ||
 | SCN | [AAAI2020](https://arxiv.org/pdf/1912.09028.pdf) | |Scale-wise Convolution|
+| MLSR | [arXiv](https://arxiv.org/pdf/2001.02905.pdf) | |Self-supervised|
+| GAN-based | [arXiv](https://arxiv.org/pdf/2001.02381.pdf) | |Real-world SR|
 ### Super Resolution Survey
 
 [1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
