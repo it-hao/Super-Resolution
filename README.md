@@ -24,7 +24,7 @@ Collect some image SR related papers, datasets, metrics and repositories.
 
 Most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!! 
 
-## **Important Repositories**
+## Important Repositories
 
 ### Awesome Paper List
 
