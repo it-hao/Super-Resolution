@@ -3,14 +3,14 @@
 # Quick navigation
 
 - [Important Repositories](# Important Repositories)
-  - [Awesome paper list](#Awesome Paper List)
-  - [Awesome repos](#Awesome Repos)
+  - [Awesome Paper list](#Awesome Paper List)
+  - [Awesome Repos](#Awesome Repos)
   - [SR Metrics](#SR Metrics)
 - [Datasets](#Datasets)
 - [Papers](#Papers)
   - [Non-DL Based Approach](#Non-DL Based Approach)
-  - [DL Based Approach](#DL-Based Approach)
-    - [2014~2016](#2014~2017)
+  - [DL Based Approach](#DL Based Approach)
+    - [2014~2016](#2014~2016)
     - [2018](#2018)
     - [2019](#2019)
     - [2020](#2020)
@@ -24,7 +24,7 @@ Collect some image SR related papers, datasets, metrics and repositories.
 
 Most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!! 
 
-## **1.Important Repositories**
+## **Important Repositories**
 
 ### Awesome Paper List
 
@@ -72,7 +72,7 @@ Note this table is referenced from [here](https://github.com/ptkin/Awesome-Super
 | NIQE    | **Making a “Completely Blind” Image Quality Analyzer**, *Mittal, Anish; Soundararajan, Rajiv; Bovik, Alan C.*, **Signal Processing Letters 2013**, [[Matlab*](https://github.com/csjunxu/Bovik_NIQE_SPL2013)], [[Signal Processing Letters](https://ieeexplore.ieee.org/document/6353522)], `NIQE` |
 | Ma      | **Learning a no-reference quality metric for single-image super-resolution**, *Ma, Chao; Yang, Chih-Yuan; Yang, Xiaokang; Yang, Ming-Hsuan*, **CVIU 2017**, [[arXiv](https://arxiv.org/abs/1612.05890)], [[CVIU](https://www.sciencedirect.com/science/article/pii/S107731421630203X)], [[Matlab*](https://github.com/chaoma99/sr-metric)], [[Project](https://sites.google.com/site/chaoma99/sr-metric)], `Ma` |
 
-## 2.Datasets
+## Datasets
 
 Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution#link-of-datasets).
 
@@ -99,7 +99,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SR-RAW                  | Train/Test | [website](https://ceciliavision.github.io/project-pages/project-zoom.html) |   raw sensor image dataset    |
 | Benchmark and DIV2k(SR) | Train/Test | [website](https://drive.google.com/drive/folders/1-99XFJs_fvQ2wFdxXrnJFcRRyPJYKN0K) |   super-resolution dataset    |
 
-## 3.Papers
+## Papers
 
 ### Non-DL Based Approach
 
@@ -256,7 +256,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 
 [3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
 
-## 4.NTIRE
+## NTIRE
 
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
@@ -268,7 +268,7 @@ NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.
 
 AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
-## 5.Excellent  Personal Website
+## Excellent  Personal Website
 
 [Manri Cheon](https://manricheon.github.io/)
 
