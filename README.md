@@ -1,10 +1,28 @@
+
+
+# Quick navigation
+
+- [Important Repositories](# Important Repositories)
+  - [Awesome paper list](#Awesome Paper List)
+  - [Awesome repos](#Awesome Repos)
+  - [SR Metrics](#SR Metrics)
+- [Datasets](#Datasets)
+- [Papers](#Papers)
+  - [Non-DL Based Approach](#Non-DL Based Approach)
+  - [DL Based Approach](#DL-Based Approach)
+    - [2014~2016](#2014~2017)
+    - [2018](#2018)
+    - [2019](#2019)
+    - [2020](#2020)
+  - [Super Resolution Survey](#Super Resolution Survey)
+- [NTIRE](#NTIRE)
+- [Excellent Personal Website](#Excellent Personal Website)
+
 # Super-Resolution（in progress...）
 
 Collect some image SR related papers, datasets, metrics and repositories.
 
 Most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!! 
-
-[TOC]
 
 ## **1.Important Repositories**
 
