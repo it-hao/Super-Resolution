@@ -6,6 +6,7 @@
   - [Awesome Paper list](#Awesome Paper List)
   - [Awesome Repos](#Awesome Repos)
   - [SR Metrics](#SR Metrics)
+
 - [Datasets](#Datasets)
 - [Papers](#Papers)
   - [Non-DL Based Approach](#Non-DL Based Approach)
@@ -16,7 +17,7 @@
     - [2020](#2020)
   - [Super Resolution Survey](#Super Resolution Survey)
 - [NTIRE](#NTIRE)
-- [Excellent Personal Website](#Excellent  Personal Website)
+- [Excellent Personal Website](#Excellent Personal Website)
 
 # Super-Resolution（in progress...）
 
