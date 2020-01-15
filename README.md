@@ -2,7 +2,7 @@
 
 # Quick navigation
 
-- [Important Repositories](# Important Repositories)
+- [Important Repositories](#Important Repositories)
   - [Awesome Paper list](#Awesome Paper List)
   - [Awesome Repos](#Awesome Repos)
   - [SR Metrics](#SR Metrics)
