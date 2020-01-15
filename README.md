@@ -16,7 +16,7 @@
     - [2020](#2020)
   - [Super Resolution Survey](#Super Resolution Survey)
 - [NTIRE](#NTIRE)
-- [Excellent Personal Website](#Excellent Personal Website)
+- [Excellent Personal Website](#Excellent  Personal Website)
 
 # Super-Resolution（in progress...）
 
@@ -58,7 +58,7 @@ Most of these contents are referenced from [here.](<https://github.com/ChaofWang
 | [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) | Tensorflow |
 | [Video-super-resolution](https://github.com/thangvubk/video-super-resolution) |  PyTorch   |
 
-### **SR Metrics**
+### SR Metrics
 
 Note this table is referenced from [here](https://github.com/ptkin/Awesome-Super-Resolution).
 
