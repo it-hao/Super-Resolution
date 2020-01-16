@@ -1,20 +1,20 @@
 # Quick navigation
 
-- [Important Repositories](#Important Repositories)
-  - [Awesome Paper List](#Awesome Paper List)
-  - [Awesome Repos](#Awesome Repos)
-  - [SR Metrics](#SR Metrics)
+- [Important Repositories](#Important-Repositories)
+  - [Awesome Paper List](#Awesome-Paper-List)
+  - [Awesome Repos](#Awesome-Repos)
+  - [SR Metrics](#SR-Metrics)
 - [DataSets](#DataSets)
 - [Papers](#Papers)
-  - [Non-DL Based Approach](#Non-DL Based Approach)
-  - [DL Based Approach](#DL Based Approach)
+  - [Non-DL Based Approach](#Non-DL-Based-Approach)
+  - [DL Based Approach](#DL-Based-Approach)
     - [2014~2017](#2014~2017)
     - [2018](#2018)
     - [2019](#2019)
     - [2020](#2020)
-  - [Super Resolution Survey](# Super Resolution Survey)
-- [Workshop for SR](#Workshop for SR)
-- [Excellent Personal Website](#Excellent Personal Website)
+  - [Super Resolution Survey](# Super-Resolution-Survey)
+- [Workshop for SR](#Workshop-for-SR)
+- [Excellent Personal Website](#Excellent-Personal-Website)
 
 # Super-Resolution（in progress...）
 
