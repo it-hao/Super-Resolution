@@ -235,17 +235,19 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 
 #### 2020
 
-| Model      | Published                                        | Code                                            | Keywords                             |
-| ---------- | ------------------------------------------------ | ----------------------------------------------- | ------------------------------------ |
-| FFA-Net    | [AAAI2020](https://arxiv.org/pdf/1911.07559.pdf) | [Pytorch](https://github.com/zhilin007/FFA-Net) | Image Dehazing                       |
-| RC-Net     | [arXiv](https://arxiv.org/pdf/1910.08853.pdf)    | [matlab](https://github.com/cswin/RC-Nets)      | Image Denoising and Super-resolution |
-| IR-NAS     | [arXiv](https://arxiv.org/pdf/1909.08228v2.pdf)  |                                                 | NAS                                  |
-| SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf)  |                                                 | Fast &Channel-Attention              |
-| DSGAN      | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf)  |                                                 | Real-World Super-Resolution          |
-| ADCSR      | [arXiv](https://arxiv.org/pdf/1912.08002v1.pdf)  |                                                 |                                      |
-| SCN        | [AAAI2020](https://arxiv.org/pdf/1912.09028.pdf) |                                                 | Scale-wise Convolution               |
-| MLSR       | [arXiv](https://arxiv.org/pdf/2001.02905.pdf)    |                                                 | Self-supervised                      |
-| GAN-based  | [arXiv](https://arxiv.org/pdf/2001.02381.pdf)    |                                                 | Real-world SR                        |
+| Model      | Published                                                    | Code                                                | Keywords                             |
+| ---------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------ |
+| FFA-Net    | [AAAI2020](https://arxiv.org/pdf/1911.07559.pdf)             | [Pytorch](https://github.com/zhilin007/FFA-Net)     | Image Dehazing                       |
+| RC-Net     | [arXiv](https://arxiv.org/pdf/1910.08853.pdf)                | [matlab](https://github.com/cswin/RC-Nets)          | Image Denoising and Super-resolution |
+| IR-NAS     | [arXiv](https://arxiv.org/pdf/1909.08228v2.pdf)              |                                                     | NAS                                  |
+| SISR-CA-OA | [arXiv](https://arxiv.org/pdf/1912.04016v1.pdf)              |                                                     | Fast &Channel-Attention              |
+| DSGAN      | [arXiv](https://arxiv.org/pdf/1911.07850v1.pdf)              |                                                     | Real-World Super-Resolution          |
+| ADCSR      | [arXiv](https://arxiv.org/pdf/1912.08002v1.pdf)              |                                                     |                                      |
+| SCN        | [AAAI2020](https://arxiv.org/pdf/1912.09028.pdf)             |                                                     | Scale-wise Convolution               |
+| MLSR       | [arXiv](https://arxiv.org/pdf/2001.02905.pdf)                |                                                     | Self-supervised                      |
+| GAN-based  | [arXiv](https://arxiv.org/pdf/2001.02381.pdf)                |                                                     | Real-world SR                        |
+| ESRGAN+    | [arXiv](https://arxiv.org/abs/2001.08073)                    |                                                     |                                      |
+| SOF-VSR    | [TIP](https://arxiv.org/abs/2001.02129) [ACCV](https://arxiv.org/abs/1809.08573) | [Pytorch](https://github.com/LongguangWang/SOF-VSR) | Video SR                             |
 
 ### Super Resolution Survey
 
