@@ -248,6 +248,9 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | GAN-based  | [arXiv](https://arxiv.org/pdf/2001.02381.pdf)                |                                                     | Real-world SR                        |
 | ESRGAN+    | [arXiv](https://arxiv.org/abs/2001.08073)                    |                                                     |                                      |
 | SOF-VSR    | [TIP](https://arxiv.org/abs/2001.02129) [ACCV](https://arxiv.org/abs/1809.08573) | [Pytorch](https://github.com/LongguangWang/SOF-VSR) | Video SR                             |
+| DDNet      | [arXiv](https://arxiv.org/pdf/2002.11079.pdf)                |                                                     | Real-World SR                        |
+| VESR-Net   | [arXiv](https://arxiv.org/pdf/2003.02115)                    |                                                     | Video Enhancement and SR             |
+|            |                                                              |                                                     |                                      |
 
 ### Super Resolution Survey
 
