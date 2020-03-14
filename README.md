@@ -250,10 +250,11 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | SOF-VSR    | [TIP](https://arxiv.org/abs/2001.02129) [ACCV](https://arxiv.org/abs/1809.08573) | [Pytorch](https://github.com/LongguangWang/SOF-VSR) | Video SR                             |
 | DDNet      | [arXiv](https://arxiv.org/pdf/2002.11079.pdf)                |                                                     | Real-World SR                        |
 | VESR-Net   | [arXiv](https://arxiv.org/pdf/2003.02115)                    |                                                     | Video Enhancement and SR             |
+| MZSR       | [CVPR 2020](https://arxiv.org/pdf/2002.12213.pdf)            |                                                     | Meta-Transfer Learning, Zero-Shot    |
 | HNAS       | [arXiv](https://arxiv.org/pdf/2003.04619)                    | [PyTorch](https://github.com/guoyongcs/HNAS-SR)     | NAS                                  |
 | PAN        | [arXiv](https://arxiv.org/pdf/2003.03756)                    | [PyTorch](https://github.com/LoneW/pan-sr/)         |                                      |
 | SFTGAN     | [arXiv](https://arxiv.org/pdf/2003.03489)                    |                                                     | GAN                                  |
-| BLINDVSR   | [arXiv](https://arxiv.org/pdf/2003.04716)                    | [PyTorch](https://github.com/jspan/blindvsr)        | Video SR                             |
+| BlindVSR   | [arXiv](https://arxiv.org/pdf/2003.04716)                    | [PyTorch](https://github.com/jspan/blindvsr)        | Video SR                             |
 
 ### Super Resolution Survey
 
