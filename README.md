@@ -260,6 +260,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | EventSR    | [CVPR 2020](https://arxiv.org/pdf/2003.07640.pdf)            |                                                     | Split three phases                            |
 | USRNet     | [CVPR 2020](https://arxiv.org/pdf/2003.10428.pdf)            | [PyTorch](https://github.com/cszn/USRNet)           |                                               |
 | PULSE      | [CVPR 2020](https://arxiv.org/pdf/2003.03808.pdf)            |                                                     | Self-Supervised                               |
+| SPSR       | [CVPR 2020](https://arxiv.org/pdf/2003.13081.pdf)            | [Code](https://github.com/Maclory/SPSR)             | GAN                                           |
 
 ### Super Resolution Survey
 
