@@ -267,6 +267,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | Scale-Arbitrary SR | [arXiv](https://arxiv.org/pdf/2004.03791.pdf)                | [Code](https://github.com/LongguangWang/Scale-Arbitrary-SR) | Scale-Arbitrary Super-Resolution, Knowledge Transfer         |
 | D3DNet             | [arXiv](https://arxiv.org/pdf/2004.02803.pdf)                | [Code](https://github.com/XinyiYing/D3Dnet)                 | Video Super-Resolution   Deformable 3D Convolution           |
 | LFSSR-ATO          | [CVPR2020](https://arxiv.org/pdf/2004.02215)                 | [Code](https://github.com/jingjin25/LFSSR-ATO)              | Light Field Spatial Super-resolution                         |
+| DeepSEE            | [arxiv](https://arxiv.org/pdf/2004.04433.pdf)                | [Code](https://mcbuehler.github.io/DeepSEE/)                | Extreme super-resolution,32× magnification                   |
 
 ### Super Resolution Survey
 
