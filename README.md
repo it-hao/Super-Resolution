@@ -7,16 +7,16 @@ This repository is mainly for personal study and use. Many resources come from t
 ## Overview
 
 > - [Important Repositories](#Important-Repositories)
->   - [Awesome SR Lists](#Awesome SR Lists)
->   - [Awesome Repositories](#Awesome Repositories)
->   - [SR Metrics](#SR Metrics)
+>   - [Awesome SR Lists](#Awesome-SR-Lists)
+>   - [Awesome Repositories](#Awesome-Repositories)
+>   - [SR Metrics](#SR-Metrics)
 > - [Datasets](#Datasets)
 > - [Papers](#Papers)
->   - [Non-DL Based Approach](#Non-DL Based Approach)
->   - [DL Based Approach](#DL Based Approach)
->   - [Super Resolution Survey](#Super Resolution Survey) 
-> - [Workshop for SR](#Workshop for SR)
-> - [Excellent  Personal Website](#Excellent  Personal Website)
+>   - [Non-DL Based Approach](#Non-DL-Based-Approach)
+>   - [DL Based Approach](#DL-Based-Approach)
+>   - [Super Resolution Survey](#Super-Resolution-Survey) 
+> - [Workshop for SR](#Workshop-for-SR)
+> - [Excellent  Personal Website](#Excellent-Personal-Website)
 
 ## Important Repositories
 
@@ -299,7 +299,7 @@ AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
 
 NTIRE20 [papers](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py)
 
-## Excellent  Personal Website
+## Excellent Personal Website
 
 [Manri Cheon](https://manricheon.github.io/)
 
