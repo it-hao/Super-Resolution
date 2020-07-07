@@ -6,7 +6,7 @@ This repository is mainly for personal study and use. Many resources come from t
 
 ## Overview
 
-> - [Important Repositories](#Important Repositories)
+> - [Important Repositories](#Important-Repositories)
 >   - [Awesome SR Lists](#Awesome SR Lists)
 >   - [Awesome Repositories](#Awesome Repositories)
 >   - [SR Metrics](#SR Metrics)
