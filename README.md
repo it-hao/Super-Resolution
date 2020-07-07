@@ -1,46 +1,35 @@
-# Quick navigation
+# Super-resolution (In progress...)
 
-- [Important Repositories](#Important-Repositories)
-  - [Awesome Paper List](#Awesome-Paper-List)
-  - [Awesome Repos](#Awesome-Repos)
-  - [SR Metrics](#SR-Metrics)
-- [DataSets](#DataSets)
-- [Papers](#Papers)
-  - [Non-DL Based Approach](#Non-DL-Based-Approach)
-  - [DL Based Approach](#DL-Based-Approach)
-    - [2014~2017](#2014~2017)
-    - [2018](#2018)
-    - [2019](#2019)
-    - [2020](#2020)
-  - [Super Resolution Survey](#Super-Resolution-Survey)
-- [Workshop for SR](#Workshop-for-SR)
-- [Excellent Personal Website](#Excellent-Personal-Website)
+这个仓库主要是为了个人学习使用，很多资源来自于微信公众号的推荐、[arXiv](https://arxiv.org/) 网站、重要的会议（CVPR、ECCV、ICCV）、github 等。
 
-# Super-Resolution（in progress...）
+This repository is mainly for personal study and use. Many resources come from the WeChat recommendation, [arXiv](https://arxiv.org/) website, important conferences (CVPR, ECCV, ICCV), github, etc.
 
-Collect some image SR related papers, datasets, metrics and repositories.
+## Overview
 
-Most of these contents are referenced from [here.](<https://github.com/ChaofWang/Awesome-Super-Resolution>) Thank you!!! 
+> - [Important Repositories](#Important Repositories)
+>   - [Awesome SR Lists](#Awesome SR Lists)
+>   - [Awesome Repositories](#Awesome Repositories)
+>   - [SR Metrics](#SR Metrics)
+> - [Datasets](#Datasets)
+> - [Papers](#Papers)
+>   - [Non-DL Based Approach](#Non-DL Based Approach)
+>   - [DL Based Approach](#DL Based Approach)
+>   - [Super Resolution Survey](#Super Resolution Survey) 
+> - [Workshop for SR](#Workshop for SR)
+> - [Excellent  Personal Website](#Excellent  Personal Website)
 
 ## Important Repositories
 
-### Awesome Paper List
+### Awesome SR Lists
 
-[Paper with code: Super Resolution](https://paperswithcode.com/task/super-resolution)
+| [Paper with code: Super Resolution](https://paperswithcode.com/task/super-resolution) | [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Super-Resolution. Benckmark](https://github.com/huangzehao/Super-Resolution.Benckmark) | [Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution) |
+| [VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) | [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) |
 
-[Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
+### Awesome Repositories
 
-[Super-Resolution. Benckmark](https://github.com/huangzehao/Super-Resolution.Benckmark)
-
-[Video-Super-Resolution](https://github.com/flyywh/Video-Super-Resolution)
-
-[VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution)
-
-[Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) 
-
-### Awesome Repos
-
-|                             repo                             | Framework  |
+|                         Repositories                         | Framework  |
 | :----------------------------------------------------------: | :--------: |
 | [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch)  |  PyTorch   |
 |      [RCAN-PyTorch](https://github.com/yulunzhang/RCAN)      |  PyTorch   |
@@ -102,23 +91,18 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 ### Non-DL Based Approach
 
-SCSR: TIP2010, Jianchao Yang et al.[paper](https://ieeexplore.ieee.org/document/5466111/?arnumber=5466111), [code](http://www.ifp.illinois.edu/~jyang29/)
-
-ANR: ICCV2013, Radu Timofte et al. [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-ICCV-2013.pdf), [code](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)
-
-A+: ACCV 2014, Radu Timofte et al. [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-ACCV-2014.pdf), [code](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/)
-
-IA: CVPR2016, Radu Timofte et al. [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-CVPR-2016.pdf)
-
-SelfExSR: CVPR2015, Jia-Bin Huang et al. [paper](https://uofi.box.com/shared/static/8llt4ijgc39n3t7ftllx7fpaaqi3yau0.pdf), [code](https://github.com/jbhuang0604/SelfExSR)
-
-NBSRF: ICCV2015, Jordi Salvador et al. [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf)
-
-RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf), [code](<https://www.tugraz.at/institute/icg/research/team-bischof/samuel-schulter/>)
+| SCSR: TIP2010, Jianchao Yang et al.      | [paper](https://ieeexplore.ieee.org/document/5466111/?arnumber=5466111) | [code](http://www.ifp.illinois.edu/~jyang29/)                |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ANR: ICCV2013, Radu Timofte et al.       | [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-ICCV-2013.pdf) | [code](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html) |
+| A+: ACCV 2014, Radu Timofte et al.       | [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-ACCV-2014.pdf) | [code](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/) |
+| IA: CVPR2016, Radu Timofte et al.        | [paper](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-CVPR-2016.pdf) |                                                              |
+| SelfExSR: CVPR2015, Jia-Bin Huang et al. | [paper](https://uofi.box.com/shared/static/8llt4ijgc39n3t7ftllx7fpaaqi3yau0.pdf) | [code](https://github.com/jbhuang0604/SelfExSR)              |
+| NBSRF: ICCV2015, Jordi Salvador et al.   | [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf) |                                                              |
+| RFL: ICCV2015, Samuel Schulter et al     | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf) | [code](<https://www.tugraz.at/institute/icg/research/team-bischof/samuel-schulter/>) |
 
 ### DL Based Approach
 
-#### 2014~2017
+- **2014~2017**
 
 | Model      | Published                                                    | Code                                                         | Keywords                 |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ |
@@ -143,7 +127,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | PRSR       | [ICCV17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dahl_Pixel_Recursive_Super_ICCV_2017_paper.pdf) | [TensorFlow](https://github.com/nilboy/pixel-recursive-super-resolution) | an extension of PixelCNN |
 | AffGAN     | [ICLR17](https://arxiv.org/pdf/1610.04490.pdf)               | -                                                            |                          |
 
-#### 2018
+- **2018**
 
 | Model       | Published                                                    | Code                                                         | Keywords                                   |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------ |
@@ -174,7 +158,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | NLRN        | [NIPS18](https://papers.nips.cc/paper/7439-non-local-recurrent-network-for-image-restoration.pdf) | [Tensorflow](https://github.com/Ding-Liu/NLRN)               | Non-local, Recurrent                       |
 | SRCliqueNet | [NIPS18](https://arxiv.org/abs/1809.04508)                   | -                                                            | Wavelet                                    |
 
-#### 2019
+- **2019**
 
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -234,7 +218,7 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | SAM+VAM                | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf)              |                                                              |                                                              |
 | SinGAN                 | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) | [PyTorch](https://github.com/tamarott/SinGAN)                | bestpaper, train from single image                           |
 
-#### 2020
+- **2020**
 
 | Model              | Published                                                    | Code                                                         | Keywords                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -272,6 +256,26 @@ RFL: ICCV2015, Samuel Schulter et al [paper](https://www.cv-foundation.org/opena
 | CutBlur            | [CVPR 2020](https://arxiv.org/pdf/2004.00448.pdf)            | [PyTorch](https://github.com/clovaai/cutblur/blob/master/main.py) | SR Data Augmentation                                         |
 | UDVD               | [CVPR 2020](https://arxiv.org/pdf/2004.06965.pdf)            |                                                              | SISR and denoise                                             |
 | SimUSR             | [NTIRE2020](https://arxiv.org/pdf/2004.11020.pdf)            |                                                              | NTIRE Champion  && unsupervised SR                           |
+| DIN                        | [IJCAI-PRICAI 2020](https://arxiv.org/pdf/2004.11814.pdf)    |                                                              | SISR，asymmetric co-attention                                |
+| PANet                      | [arxiv](https://arxiv.org/pdf/2004.13824.pdf)                | [PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks) | Pyramid Attention                                            |
+| SRResCGAN                  | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)                | [PyTorch](https://github.com/RaoUmer/SRResCGAN)              |                                                              |
+| ISRN                       | [arxiv](https://arxiv.org/pdf/2005.09964.pdf)                |                                                              | iterative optimization, feature normalization.               |
+| RFB-ESRGAN                 | [CVPR 2020](https://arxiv.org/pdf/2005.12597.pdf)            |                                                              | NTIRE 2020 Perceptual Extreme Super-Resolution Challenge winner |
+| PHYSICS_SR                 | [AAAI 2020](https://arxiv.org/pdf/1908.06444.pdf)            | [PyTorch](https://github.com/jspan/PHYSICS_SR)               |                                                              |
+| CSNLN                      | [CVPR 2020](https://arxiv.org/pdf/2006.01424.pdf)            | [PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention) | Cross-Scale Non-Local Attention,Exhaustive Self-Exemplars Mining, Similar to PANet |
+| TTSR                       | [CVPR 2020](https://arxiv.org/pdf/2006.04139.pdf)            | [PyTorch](https://github.com/FuzhiYang/TTSR)                 | Texture Transformer                                          |
+| NSR                        | [arxiv](https://arxiv.org/pdf/2006.04357.pdf)                | [PyTorch](https://github.com/ychfan/nsr)                     | Neural Sparse Representation                                 |
+| RFANet                     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) |                                                              | state-of-the-art SISR                                        |
+| Correction filter          | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Abu_Hussein_Correction_Filter_for_Single_Image_Super-Resolution_Robustifying_Off-the-Shelf_Deep_Super-Resolvers_CVPR_2020_paper.pdf) |                                                              | Enhance SISR model generalization                            |
+| Unpaired SR                | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf) |                                                              | Unpaired Image Super-Resolution                              |
+| STARnet                    | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf) |                                                              | Space-Time-Aware multi-Resolution                            |
+| SSSR                       | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) | [code](https://github.com/wanglixilinx/DSRL)                 | SISR for Semantic Segmentation and Human pose estimation     |
+| VSR_TGA                    | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf) | [code](https://github.com/junpan19/VSR_TGA)                  | Temporal Group Attention, Fast Spatial Alignment             |
+| SSEN                       | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.pdf) |                                                              | Similarity-Aware Deformable Convolution                      |
+| SMSR                       | [arxiv](https://arxiv.org/pdf/2006.09603.pdf)                |                                                              | Sparse Masks, Efficient SISR                                 |
+| LF-InterNet                | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)            | [PyTorch](https://github.com/YingqianWang/LF-InterNet)       | Spatial-Angular Interaction, Light Field Image SR            |
+| Invertible-Image-Rescaling | [ECCV 2020](https://arxiv.org/abs/2005.05650)                | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling) | ECCV oral                                                    |
+| IGNN                       | [arxiv](https://arxiv.org/abs/2006.16673)                    | [Code](https://github.com/sczhou/IGNN)                       | GNN, SISR                                                    |
 
 ### Super Resolution Survey
 
@@ -292,6 +296,8 @@ PIRM18 [web](https://pirm2018.org/)
 NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
 
 AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
+
+NTIRE20 [papers](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py)
 
 ## Excellent  Personal Website
 
