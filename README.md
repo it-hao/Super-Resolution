@@ -277,6 +277,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | Invertible-Image-Rescaling | [ECCV 2020](https://arxiv.org/abs/2005.05650)                | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling) | ECCV oral                                                    |
 | IGNN                       | [arxiv](https://arxiv.org/abs/2006.16673)                    | [Code](https://github.com/sczhou/IGNN)                       | GNN, SISR                                                    |
 | TPSR | [arxiv](https://arxiv.org/pdf/2007.04356.pdf) | [Code](https://github.com/richzhang/PerceptualSimilarity) | NAS, GAN, TINY |
+| CFSRCNN | [IEEE TMM](https://www.researchgate.net/publication/322431759_Coarse-to-Fine_Image_Super-Resolution_Using_Convolutional_Neural_Networks) | [Code](https://github.com/hellloxiaotian/CFSRCNN) | Coarse-to-fine |
 
 ### Super Resolution Survey
 
