@@ -289,6 +289,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 [3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
 
+[4]Hongying Liu,Zhubo Ruan.(2020). Video Super Resolution Based on Deep Learning: A comprehensive survey.[paper](https://arxiv.org/abs/2007.12928)
+
 ## Workshop for SR
 
 NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
