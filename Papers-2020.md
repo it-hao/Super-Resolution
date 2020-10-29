@@ -1,6 +1,6 @@
-The following table collects some papers from conference.
+**The following table collects some papers from top international conference.**
 
-| paper                                                        | source                                                       |                             code                             |
+| Papers                                                       | Source                                                       |                             Code                             |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------: |
 | **FISR**: FISR: Deep Joint Frame Interpolation and Super-Resolution with A Multi-scale Temporal Loss. <font color = 'red'>[AAAI 2020]</font> | [Paper](https://arxiv.org/pdf/1912.07213.pdf)                |       [Tensorflow](https://github.com/JihyongOh/FISR)        |
 | **SCN**: Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution. <font color = 'red'>[CVPR 2020]</font> | [Paper](https://arxiv.org/pdf/2002.11616.pdf)                | [PyTorch](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) |
@@ -59,20 +59,15 @@ The following table collects some papers from conference.
 | **FAN**: Frequency Aggregation Network for Real Image Super-resolution. <font color = 'red'>[ECCVW 2020]</font> | [Paper](https://arxiv.org/pdf/2009.14547.pdf)                |                              -                               |
 | **PAN**: Efficient Image Super-Resolution Using Pixel Attention. <font color = 'red'>[ECCVW 2020]</font> | [Paper](https://arxiv.org/pdf/2010.01073.pdf)                |       [PyTorch](https://github.com/zhaohengyuan1/PAN)        |
 | **TDAN**: Temporally Deformable Alignment Network for Video Super-Resolution. <font color = 'red'>[CVPR 2020]</font> | [Paper](https://arxiv.org/pdf/1812.02898.pdf)                | [PyTorch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)  |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
+| **LAPAR**: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond.  <font color = 'red'>[NeurIPS 2020]</font> |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 
-|                                                              |                                                              |                                                              |
+**The following table collects some papers which are preprint in [arxiv](https://arxiv.org/) , some of them may be published in conference.**
+
+| Papers                                                       | Source                                                       | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **ADCSR**: Adaptive Densely Connected Single Image Super-Resolution. | [Paper](https://arxiv.org/pdf/1912.08002.pdf)                | -                                                            |
 | **LSRGAN**: Optimizing Generative Adversarial Networks for Image Super Resolution via Latent Space Regularization. | [Paper](https://arxiv.org/pdf/2001.08126.pdf)                | -                                                            |
@@ -97,16 +92,10 @@ The following table collects some papers from conference.
 | **SCHN**: Blind Image Super-Resolution with Spatial Context Hallucination. | [Paper](https://arxiv.org/pdf/2009.12461.pdf)                |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
 
-The following table collects some papers from journals.
+**The following table collects some papers from journals.**
 
-|                                                              |                                               |                                                              |
+| Papers                                                       | Source                                        | Code                                                         |
 | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | **TCSVT**: Learning with Privileged Information for Efficient Image Super-Resolution | [Paper](https://arxiv.org/pdf/2007.07524.pdf) | [PyTorch](https://github.com/avisekiit/TCSVT-LightWeight-CNNs) |
 | **ISRN**: Iterative Network for Image Super-Resolution.      | [Paper](https://arxiv.org/pdf/2005.09964.pdf) | [PyTorch](https://github.com/yuqing-liu-dut/ISRN)            |
