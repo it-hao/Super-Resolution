@@ -110,7 +110,7 @@ The following table collects some papers from journals.
 | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | **TCSVT**: Learning with Privileged Information for Efficient Image Super-Resolution | [Paper](https://arxiv.org/pdf/2007.07524.pdf) | [PyTorch](https://github.com/avisekiit/TCSVT-LightWeight-CNNs) |
 | **ISRN**: Iterative Network for Image Super-Resolution.      | [Paper](https://arxiv.org/pdf/2005.09964.pdf) | [PyTorch](https://github.com/yuqing-liu-dut/ISRN)            |
-| **RDN**: Residual Dense Network for Image Restoration. *<font color = 'red'>[Accepteed by IEEE TPAMI] </font>>* | [Paper](https://arxiv.org/pdf/1812.10477.pdf) | [PyTorch](https://github.com/yulunzhang/RDN)                 |
+| **RDN**: Residual Dense Network for Image Restoration. *<font color = 'red'>[Accepteed by IEEE TPAMI] </font>* | [Paper](https://arxiv.org/pdf/1812.10477.pdf) | [PyTorch](https://github.com/yulunzhang/RDN)                 |
 |                                                              |                                               |                                                              |
 |                                                              |                                               |                                                              |
 
