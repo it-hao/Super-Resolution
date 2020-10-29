@@ -14,7 +14,7 @@ This repository is mainly for personal study. Most of resources come from the We
 > - [Papers](#Papers)
 >   - [Non-DL Based Approach](#Non-DL-Based-Approach)
 >   - [DL Based Approach](#DL-Based-Approach)
->   - [Super Resolution Survey](#Super-Resolution-Survey) 
+>   - [Survey](#Survey)
 > - [Workshops](#Workshops)
 > - [Excellent  Personal Website](#Excellent-Personal-Website)
 
@@ -62,7 +62,7 @@ Note this table is referenced from [here](https://github.com/ptkin/Awesome-Super
 | VIF     | **Image information and visual quality**, *Sheikh, Hamid Rahim; Bovik, Alan C.*, **TIP 2006**, [[TIP](https://ieeexplore.ieee.org/document/1576816)], `VIF` |
 | FSIM    | **FSIM: A Feature Similarity Index for Image Quality Assessment**, *Zhang, Lin; Zhang, Lei; Mou, Xuanqin; Zhang, David*, **TIP 2011**, [[Project](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/FSIM.htm)], [[TIP](https://ieeexplore.ieee.org/document/5705575)], `FSIM` |
 | NIQE    | **Making a “Completely Blind” Image Quality Analyzer**, *Mittal, Anish; Soundararajan, Rajiv; Bovik, Alan C.*, **Signal Processing Letters 2013**, [[Matlab*](https://github.com/csjunxu/Bovik_NIQE_SPL2013)], [[Signal Processing Letters](https://ieeexplore.ieee.org/document/6353522)], `NIQE` |
-| Ma      | **Learning a no-reference quality metric for single-image super-resolution**, *Ma, Chao; Yang, Chih-Yuan; Yang, Xiaokang; Yang, Ming-Hsuan*, **CVIU 2017**, [[arXiv](https://arxiv.org/abs/1612.05890)], [[CVIU](https://www.sciencedirect.com/science/article/pii/S107731421630203X)], [[Matlab*](https://github.com/chaoma99/sr-metric)], [[Project](https://sites.google.com/site/chaoma99/sr-metric)], `Ma` |
+| Ma      | **Learning a no-reference quality metric for single-image super-resolution**, *Ma, Chao; Yang, Chih-Yuan; Yang, Xiaokang; Yang, Ming-Hsuan*, **CVIU 2017**, [[arXiv](https://arxiv.org/abs/1612.05890)], [[CVIU](https://www.sciencedirect.com/science/article/pii/S107731421630203X)], [[Matlab*](https://github.com/chaoma99/sr-metric)], [[Project](https://sites.google.com/site/chaoma99/sr-metric)] |
 
 ## Datasets
 
@@ -129,15 +129,15 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 
 | [NTIRE17](ttp://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py) | [NTIRE18](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py) | [PIRM18](https://pirm2018.org/) | [NTIRE19](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py) | [AIM19](https://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM) | [NTIRE20](http://openaccess.thecvf.com/CVPR2020_workshops/CVPR2020_w31.py) | [AIM20](https://data.vision.ee.ethz.ch/cvl/aim20/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
-|                                                              |                                                              |                                 |                                                              |                                                              |                                                              |                                                    |
 
 
 
-## ExcellentPersonal Website
+
+## Excellent Personal Website
 
 | [Manri Cheon](https://manricheon.github.io/) | [Yulun Zhang](http://yulunzhang.com/) | [Yapeng Tian](http://yapengtian.org/) | [Xintao Wang](https://xinntao.github.io/) |
 | -------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------------------------------- |
-|                                              |                                       |                                       |                                           |
+
 
 
 
