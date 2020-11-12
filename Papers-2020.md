@@ -90,7 +90,7 @@
 | **DeFiAN**: Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2009.13134.pdf)                | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN)            |
 | **ASDN**: A Deep Convolutional Network for Arbitrary Scale Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2010.02414.pdf)                |                                                              |
 | **SCHN**: Blind Image Super-Resolution with Spatial Context Hallucination. | [Paper](https://arxiv.org/pdf/2009.12461.pdf)                |                                                              |
-|                                                              |                                                              |                                                              |
+| **Invertible_SR**: Invertible CNN-Based Super Resolution with Downsampling Awareness | [Paper](https://arxiv.org/abs/2011.05586)                    | [PyTorch](https://github.com/avgeiss/invertible_sr)          |
 |                                                              |                                                              |                                                              |
 
 **The following table collects some papers from journals.**
@@ -101,5 +101,9 @@
 | **ISRN**: Iterative Network for Image Super-Resolution.      | [Paper](https://arxiv.org/pdf/2005.09964.pdf) | [PyTorch](https://github.com/yuqing-liu-dut/ISRN)            |
 | **RDN**: Residual Dense Network for Image Restoration. *<font color = 'red'>[Accepteed by IEEE TPAMI] </font>* | [Paper](https://arxiv.org/pdf/1812.10477.pdf) | [PyTorch](https://github.com/yulunzhang/RDN)                 |
 | **DIN**: Learning Deep Interleaved Networks with Asymmetric Co-Attention for Image Restoration.  <font color = 'red'>*[Preprint in IEEE Image Processing]*</font> | [Paper](https://arxiv.org/pdf/2010.15689.pdf) |                                                              |
+|                                                              |                                               |                                                              |
+|                                                              |                                               |                                                              |
+|                                                              |                                               |                                                              |
+|                                                              |                                               |                                                              |
 |                                                              |                                               |                                                              |
 
