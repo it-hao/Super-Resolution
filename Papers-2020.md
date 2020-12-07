@@ -60,7 +60,7 @@
 | **PAN**: Efficient Image Super-Resolution Using Pixel Attention. <font color = 'red'>[ECCVW 2020]</font> | [Paper](https://arxiv.org/pdf/2010.01073.pdf)                |       [PyTorch](https://github.com/zhaohengyuan1/PAN)        |
 | **TDAN**: Temporally Deformable Alignment Network for Video Super-Resolution. <font color = 'red'>[CVPR 2020]</font> | [Paper](https://arxiv.org/pdf/1812.02898.pdf)                | [PyTorch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)  |
 | **LAPAR**: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond.  <font color = 'red'>[NeurIPS 2020]</font> |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
+| **A2F-SR:** Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning. <font color = 'red'>[ACCV 2020]</font> | [Paper](https://arxiv.org/pdf/2011.06773.pdf)                |        [PyTorch](https://github.com/wxxxxxxh/A2F-SR)         |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
@@ -91,6 +91,12 @@
 | **ASDN**: A Deep Convolutional Network for Arbitrary Scale Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2010.02414.pdf)                |                                                              |
 | **SCHN**: Blind Image Super-Resolution with Spatial Context Hallucination. | [Paper](https://arxiv.org/pdf/2009.12461.pdf)                |                                                              |
 | **Invertible_SR**: Invertible CNN-Based Super Resolution with Downsampling Awareness | [Paper](https://arxiv.org/abs/2011.05586)                    | [PyTorch](https://github.com/avgeiss/invertible_sr)          |
+| **GLEAN**: Generative Latent Bank for Large-Factor Image Super-Resolution | [Paper](https://arxiv.org/pdf/2012.00739.pdf)                |                                                              |
+| **IPT:** Pre-Trained Image Processing Transformer            | [Paper](https://arxiv.org/pdf/2012.00364.pdf)                |                                                              |
+| **MPRNet:** MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution | [Paper](https://arxiv.org/pdf/2011.04566.pdf)                |                                                              |
+| **LAM:** Interpreting Super-Resolution Networks with Local Attribution Maps | [Paper](https://arxiv.org/pdf/2011.11036.pdf)                |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 
 **The following table collects some papers from journals.**
