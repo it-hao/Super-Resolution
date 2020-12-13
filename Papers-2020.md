@@ -94,7 +94,7 @@
 | **GLEAN**: Generative Latent Bank for Large-Factor Image Super-Resolution | [Paper](https://arxiv.org/pdf/2012.00739.pdf)                |                                                              |
 | **IPT:** Pre-Trained Image Processing Transformer            | [Paper](https://arxiv.org/pdf/2012.00364.pdf)                |                                                              |
 | **LAM:** Interpreting Super-Resolution Networks with Local Attribution Maps | [Paper](https://arxiv.org/pdf/2011.11036.pdf)                |                                                              |
-|                                                              |                                                              |                                                              |
+| **HRAN**：Hierarchical Residual Attention Network for Single Image Super-Resolution | [Paper](https://arxiv.org/pdf/2012.04578.pdf)                |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
