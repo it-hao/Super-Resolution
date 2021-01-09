@@ -62,7 +62,7 @@
 | **LAPAR**: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond.  <font color = 'red'>[NeurIPS 2020]</font> |                                                              |                                                              |
 | **A2F-SR:** Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning. <font color = 'red'>[ACCV 2020]</font> | [Paper](https://arxiv.org/pdf/2011.06773.pdf)                |        [PyTorch](https://github.com/wxxxxxxh/A2F-SR)         |
 | **MPRNet:** MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution. <font color = 'red'>[WACV2021]</font> | [Paper](https://arxiv.org/pdf/2011.04566.pdf)                | [PyTorch](https://github.com/Rm1n90/MPRNet-Multi-Path-Residual-Network-for-Lightweight-Image-Super-Resolution) |
-|                                                              |                                                              |                                                              |
+| Understanding Deformable Alignment in Video Super-Resolution. *<font color = 'red'>[AAAI 2021]</font>* | [Paper](https://arxiv.org/pdf/2009.07265.pdf)                |                                                              |
 |                                                              |                                                              |                                                              |
 
 **The following table collects some papers which are preprint in [arxiv](https://arxiv.org/) , some of them may be published in conference.**
@@ -85,7 +85,6 @@
 | **A-CubeNet**: Attention Cube Network for Image Restoration. | [Paper](https://arxiv.org/pdf/2009.05907.pdf)                |                                                              |
 | **MoG-DUN**: Accurate and Lightweight Image Super-Resolution with Model-Guided Deep Unfolding Network. | [Paper](https://arxiv.org/pdf/2009.06254.pdf)                |                                                              |
 | **AdderSR**: Towards Energy Efficient Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2009.08891.pdf)                |                                                              |
-| Understanding Deformable Alignment in Video Super-Resolution. *<font color = 'red'>[video SR]</font>* | [Paper](https://arxiv.org/pdf/2009.07265.pdf)                |                                                              |
 | **Tarsier**: Tarsier: Evolving Noise Injection in Super-Resolution GANs | [Paper](https://arxiv.org/pdf/2009.12177.pdf)                |                                                              |
 | **DeFiAN**: Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2009.13134.pdf)                | [PyTorch](https://github.com/YuanfeiHuang/DeFiAN)            |
 | **ASDN**: A Deep Convolutional Network for Arbitrary Scale Image Super-Resolution. | [Paper](https://arxiv.org/pdf/2010.02414.pdf)                |                                                              |
@@ -94,7 +93,7 @@
 | **GLEAN**: Generative Latent Bank for Large-Factor Image Super-Resolution | [Paper](https://arxiv.org/pdf/2012.00739.pdf)                |                                                              |
 | **IPT:** Pre-Trained Image Processing Transformer            | [Paper](https://arxiv.org/pdf/2012.00364.pdf)                |                                                              |
 | **LAM:** Interpreting Super-Resolution Networks with Local Attribution Maps | [Paper](https://arxiv.org/pdf/2011.11036.pdf)                |                                                              |
-| **HRAN**：Hierarchical Residual Attention Network for Single Image Super-Resolution | [Paper](https://arxiv.org/pdf/2012.04578.pdf)                |                                                              |
+| **FCA: **Frequency Consistent Adaptation for Real World Super Resolution | [Paper](https://arxiv.org/pdf/2012.10102.pdf)                |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
